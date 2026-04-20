@@ -10,7 +10,7 @@ import java.sql.Driver;
 public class C01_PlaywrightTest {
     public static void main(String[] args) {
 
-        //handshake protokol icin bir tane playwright objesi olusturulur
+        //handshake protokol icin bir tane playwright objesi olusturulur..
         Playwright playwright = Playwright.create();
 
         // calisilacak olan browser tipi belirlenir
